@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>ka</h1>
+        <h1>Chang text</h1>
     </div>
 </template>
 
